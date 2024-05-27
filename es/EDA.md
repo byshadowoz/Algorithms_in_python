@@ -1,4 +1,4 @@
-!puedes ver el mapa mental copiando el codigo y pegandolo en https://markmap.js.org/repl
+puedes ver el mapa mental copiando el codigo y pegandolo en https://markmap.js.org/repl
 
 # Estructuras de Datos
 
